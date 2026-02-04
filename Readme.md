@@ -13,3 +13,5 @@ Praca powinna zawierać:
 - wnioski (krótko)
 
 Preferowana forma pracy: Notatnik Jupyter Nootebook lub plik Word / PDF
+
+Zaliczenia zrobimy 9 lustego od godz. 9.00 – podeślę link do zooma lub google meets 
